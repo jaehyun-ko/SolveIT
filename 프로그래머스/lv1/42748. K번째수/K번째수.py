@@ -1,8 +1,3 @@
 def solution(array, commands):
-    answer = []
-    for command in commands:
-        i,j,k = command
-        print(array[i-1:j])
-        data = sorted(array[i-1:j])[k-1]
-        answer.append(data)
+    answer = [sorted(array[i-1:j])[k-1] for i,j,k in commands]
     return answer

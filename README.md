@@ -20,7 +20,9 @@ LG(BOJ ~G5) 기준 이코테 들으면 됨 [이코테](https://youtube.com/playl
 - [백준허브](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko) 를 설치하면, [스터디장문풀레포](https://github.com/jaehyun-ko/Algorithm-Study) 와 같은 레포지토리를 구성할 수 있다. 프로그래머스/백준/릿코드 지원하고 있음
 
 #기본 문제집
-[Soved.ac 새싹](https://solved.ac/problems/sprout)[programmers 코딩 테스트 고득점 킷](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)[백준 단계별](https://www.acmicpc.net/step)
+- [Soved.ac 새싹](https://solved.ac/problems/sprout)
+- [programmers 코딩 테스트 고득점 킷](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+- [백준 단계별](https://www.acmicpc.net/step)
 
 # **규정**
 
